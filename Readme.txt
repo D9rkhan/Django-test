@@ -2,4 +2,8 @@
 
 python -m venv .venv - Установка виртаульной среды
 
-.venv\Scripts\activate.bat
+.venv\Scripts\activate.bat - Открытие виртаульной среды
+
+deactivate - Деактивация виртаульной среды
+
+django-admin startproject djangotest(Название проекта)
