@@ -2,3 +2,4 @@
 
 python -m venv .venv - Установка виртаульной среды
 
+.venv\Scripts\activate.bat
